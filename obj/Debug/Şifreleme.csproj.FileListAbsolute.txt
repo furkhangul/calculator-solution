@@ -1,0 +1,7 @@
+C:\Users\Furkan\source\repos\Şifreleme\Şifreleme\bin\Debug\Şifreleme.exe.config
+C:\Users\Furkan\source\repos\Şifreleme\Şifreleme\bin\Debug\Şifreleme.exe
+C:\Users\Furkan\source\repos\Şifreleme\Şifreleme\bin\Debug\Şifreleme.pdb
+C:\Users\Furkan\source\repos\Şifreleme\Şifreleme\obj\Debug\Şifreleme.csproj.AssemblyReference.cache
+C:\Users\Furkan\source\repos\Şifreleme\Şifreleme\obj\Debug\Şifreleme.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\Şifreleme\Şifreleme\obj\Debug\Şifreleme.exe
+C:\Users\Furkan\source\repos\Şifreleme\Şifreleme\obj\Debug\Şifreleme.pdb
